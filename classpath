@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Downloads/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Downloads/mysql-connector-java-5.1.47.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Downloads/slf4j-api-1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Downloads/slf4j-log4j12-1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/hibernate-distribution-3.5.5-Final/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/hibernate-distribution-3.5.5-Final/lib/required/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/hibernate-distribution-3.5.5-Final/lib/required/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/hibernate-distribution-3.5.5-Final/lib/required/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/hibernate-distribution-3.5.5-Final/lib/required/javassist-3.9.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/hibernate-distribution-3.5.5-Final/lib/required/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/hibernate-distribution-3.5.5-Final/lib/required/slf4j-api-1.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/725723/Desktop/hibernate-distribution-3.5.5-Final/lib/jpa/hibernate-jpa-2.0-api-1.0.0.Final.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
